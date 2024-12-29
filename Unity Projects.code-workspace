@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Unity Projects/My Zany Vehicle"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "My Zany Vehicle.sln"
+	}
+}
